@@ -1,0 +1,26 @@
+.container.about-section {
+  margin-top: 30px;
+}
+
+.text-center.text-inspiration {
+  font-weight: 400;
+  padding: 5%;
+  /*font-size: 100%;*/
+}
+
+.col.d-flex.order-last.justify-content-xl-center.align-items-xl-center {
+  margin: 20px;
+}
+
+.img-fluid.d-inline.float-end.m-auto.image-classmate {
+  border-radius: 15px;
+}
+
+.col-lg-12.d-grid.justify-content-center {
+  margin-bottom: 20px;
+}
+
+.about-section {
+  margin-top: 50px;
+}
+

@@ -1,0 +1,14 @@
+.list-inline-item.social-text {
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.container.home {
+  margin-top: 20px;
+}
+
+.container.home {
+  height: 100%;
+}
+

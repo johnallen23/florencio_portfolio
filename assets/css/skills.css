@@ -1,0 +1,16 @@
+.col-md-3.col-lg-7 {
+  margin-left: auto;
+  padding: 10px;
+}
+
+.col-md-12.text-center {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.text-skills {
+  font-weight: bold;
+  font-size: 80%;
+  margin-left: 10%;
+}
+
